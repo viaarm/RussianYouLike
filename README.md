@@ -3,7 +3,7 @@
 ## ИНСТРУКЦИЯ
 Выполните следующие команды
 ```bash
-https://github.com/viaarm/RussianYouLike.git
+git clone https://github.com/viaarm/RussianYouLike.git
 venv\Scripts\activate
 python manage.py runserver
 ```
